@@ -29,7 +29,7 @@
 <p float="left">
 <a href="#"><img width="70px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
 <a href="#"><img width="50px" height="40px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/></a>
-<a href="#"><img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"/></a>
+<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/dusk/64/000000/css3.png"/></a>
 <a href="#"><img width="70px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
 <a href="#"><img width="70px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
 </p>
