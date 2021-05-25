@@ -31,6 +31,6 @@
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/></a>  
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/dusk/64/000000/css3.png"/></a>
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/dusk/64/000000/html-5.png"/></a>
-<a href="#"><img width="70px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
+<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/python.png"/></a>
 </p>
 
