@@ -26,6 +26,6 @@
 
 <h3>Technologies</h3>
 
-<a href="#" background="white">C++</a>
+<a href="#"><img width="50px" height="20px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
 
 
