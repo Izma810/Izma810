@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.pinimg.com/originals/4e/8f/db/4e8fdb8a75a0be6a2de0a6bb71329b3e.gif" width="30px" height="50px">
+<img src="https://i.pinimg.com/originals/4e/8f/db/4e8fdb8a75a0be6a2de0a6bb71329b3e.gif" width="100px" height="100px">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
