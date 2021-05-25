@@ -26,6 +26,6 @@
 
 <h3>Technologies</h3>
 
-<a href="#">C++</a>
+<a href="#" background="white">C++</a>
 
 
