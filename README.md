@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p float="left">
-<img src="https://i.pinimg.com/originals/4e/8f/db/4e8fdb8a75a0be6a2de0a6bb71329b3e.gif" width="200px" height="100px">
+<img src="https://i.pinimg.com/originals/4e/8f/db/4e8fdb8a75a0be6a2de0a6bb71329b3e.gif" width="200px" height="200px">
 <img src="https://cdn.dribbble.com/users/148673/screenshots/3131759/z-logo-anim.gif" width="200px" height="200px">
 </p>
 - 🔭 I’m currently working on ...
