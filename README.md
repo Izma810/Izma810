@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<p float="left">
 <img src="https://i.pinimg.com/originals/4e/8f/db/4e8fdb8a75a0be6a2de0a6bb71329b3e.gif" width="100px" height="100px">
-<img src="http://www.mrahayes.com/" width="100px" height="100px">
-
+<img src="https://cdn.dribbble.com/users/148673/screenshots/3131759/z-logo-anim.gif" width="100px" height="100px">
+</p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
