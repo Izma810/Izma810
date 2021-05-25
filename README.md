@@ -20,7 +20,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Izma810&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
 </p>
 <p float="left">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Izma810&repo=Endangered-animals-website&theme=radical"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Izma810&repo=Endangered-animals-website&theme=radical&hide_border=true"/>
 </p>
 
 
