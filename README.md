@@ -24,8 +24,9 @@
 <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Izma810&repo=Quonto-Quiz-Website&theme=radical&hide_border=true"/>
 </p>
 
-<h3>Technologies</h3>
+<h2>Technologies</h2>
 
-<a href="#"><img width="50px" height="20px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
+
+<a href="#"><img width="70px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
 
 
