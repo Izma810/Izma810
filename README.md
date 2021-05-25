@@ -26,7 +26,11 @@
 
 <h2>Technologies</h2>
 
-
+<p float="left">
 <a href="#"><img width="70px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
-
+<a href="#"><img width="70px" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-3630127-3031259.png/></a>
+<a href="#"><img width="70px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
+<a href="#"><img width="70px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
+<a href="#"><img width="70px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
+</p>
 
