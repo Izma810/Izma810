@@ -16,4 +16,4 @@
 - ⚡ Fun fact: Life is great, maybe
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Izma810)](https://github.com/Izma810/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Izma810)](https://github.com/anuraghazra/github-readme-stats)
