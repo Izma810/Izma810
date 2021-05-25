@@ -24,6 +24,7 @@
 <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Izma810&repo=Quonto-Quiz-Website&theme=radical&hide_border=true"/>
 </p>
 
-
+###Technologies
+<a href="#">C++</a>
 
 
