@@ -15,5 +15,7 @@
 - 🎧 I love music 
 - ⚡ Fun fact: Life is great, maybe
 
+(https://github-readme-stats.vercel.app/api?username=Izma810)](https://github.com/Izma810/github-readme-stats)
+
 (https://github-readme-stats.vercel.app/api?username=Izma810&show_icons=true&theme=radical)
 
