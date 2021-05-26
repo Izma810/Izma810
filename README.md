@@ -6,6 +6,7 @@
 <img src="https://cdn.dribbble.com/users/400493/screenshots/1557548/a_dribbble.gif" width="200px" height="200px">
 </p>
 
+
 - 🥇 I’m a 13 year old coder
 - 🖊 I know C++, Python, HTML, CSS and JS
 - 📐 I like maths and physics because they are cool subjects 
@@ -14,6 +15,7 @@
 - 👩‍🎓 I also do CP using C++
 - 🎧 I love music 
 - ⚡ Fun fact: Life is great, maybe
+
 
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izma810&theme=radical&hide_border=true"/>
@@ -24,7 +26,9 @@
 <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Izma810&repo=Quonto-Quiz-Website&theme=radical&hide_border=true"/>
 </p>
 
-<h2>Technologies</h2>
+
+<h2>Technologies 👇👇👇</h2>
+
 
 <p float="left">
 <a href="#"><img width="40px" height="40px" src="https://cdn.worldvectorlogo.com/logos/c.svg"/></a>
