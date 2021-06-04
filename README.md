@@ -7,7 +7,7 @@
 </p>
 
 
-<h2>About Me ✌</h2>
+### About Me ✌
 - 🥇 I’m a 13 year old coder
 - 🖊 I know C++, Python, HTML, CSS and JS
 - 📐 I like maths and physics because they are cool subjects 
@@ -17,7 +17,7 @@
 - 🎧 I love music 
 - ⚡ Fun fact: Life is great, maybe
 
-<h2>Stats 📊</h2>
+### Stats 📊
 <p float="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izma810&theme=radical&hide_border=true&layout=compact"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Izma810&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
@@ -28,7 +28,7 @@
 </p>
 
 
-<h2>Technologies 👇👇👇</h2>
+### Technologies 👇👇👇
 
 
 <p float="left">
