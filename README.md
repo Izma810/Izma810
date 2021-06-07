@@ -15,6 +15,7 @@
 - 🤟 I like netflix (netflix music in background)
 - 👩‍🎓 I also do CP using C++
 - 🎧 I love music 
+- 🖌 I also edit videos using premiere pro 
 - ⚡ Fun fact: Life is great, maybe
 
 ### Stats 📊
