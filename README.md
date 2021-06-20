@@ -10,7 +10,7 @@
 ### About Me ✌
 - 🥇 I’m a 13 year old coder
 - 🖊 I know C++, Python, HTML, CSS and JS
-- 📐 I like maths and physics because they are cool subjects 
+- 📐 I like maths and physics.
 - 📂 I make websites (front end developer :))
 - 🤟 I like netflix (netflix music in background)
 - 👩‍🎓 I also do CP using C++
