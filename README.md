@@ -14,7 +14,7 @@
 - 📂 I make websites (front end developer for now :))
 - 👩‍🎓 I also do CP using C++ 
 - 🖌 I also edit videos using premiere pro 
-- - 😊 Interested in space tech
+- 😊 Interested in space tech
 - ⚡ Fun fact: Life is great, maybe
 
 ### Stats 📊
