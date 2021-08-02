@@ -11,11 +11,10 @@
 - 🥇 I’m a 13 year old coder
 - 🖊 I know C++, Python, HTML, CSS and JS
 - 📐 I like maths and physics.
-- 📂 I make websites (front end developer :))
-- 🤟 I like netflix (netflix music in background)
-- 👩‍🎓 I also do CP using C++
-- 🎧 I love music 
+- 📂 I make websites (front end developer for now :))
+- 👩‍🎓 I also do CP using C++ 
 - 🖌 I also edit videos using premiere pro 
+- - 😊 Interested in space tech
 - ⚡ Fun fact: Life is great, maybe
 
 ### Stats 📊
