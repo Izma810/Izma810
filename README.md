@@ -10,8 +10,8 @@
 ### About Me ✌
 - 🥇 I’m a 13 year old coder
 - 📂 I make websites (front end developer for now :))
-- 👩‍🎓 I also do CP using C++ 
-- 😊 Interested in space tech
+- 👩‍🎓 I also do CP using C++ sometimes 
+- 😊 "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever." - Interested in space tech :D
 
 ### Stats 📊
 <p float="left">
