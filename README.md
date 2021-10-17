@@ -8,7 +8,7 @@
 
 
 ### About Me ✌
-- 🥇 I kinda code uhm :)
+- 🥇 I kinda code ig uhm :)
 - 📂 I make websites (front end developer for now :))
 - 😊 "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever." - Interested in space tech :D
 
