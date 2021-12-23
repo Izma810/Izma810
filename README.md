@@ -7,12 +7,12 @@
 </p>
 
 
-### About Me ✌
-- 🥇 I kinda code ig uhm :)
-- 📂 I make websites (front end developer for now :))
+### About Me
+- 🥇 I code.
+- 📂 I am a frontend developer.
 - 😊 "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever." - Interested in space tech :D
 
-### Stats 📊
+### Stats
 <p float="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izma810&theme=radical&hide_border=true&layout=compact"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Izma810&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
@@ -23,7 +23,7 @@
 </p>
 
 
-### Technologies 👇👇👇
+### Technologies
 
 
 <p float="left">
@@ -31,17 +31,9 @@
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png"/></a>  
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/dusk/64/000000/css3.png"/></a>
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/dusk/64/000000/html-5.png"/></a>
-<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/python.png"/></a>
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/dusk/64/000000/react.png"/></a>
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/plasticine/100/000000/discord-logo.png"/></a>
-<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/plasticine/100/000000/github.png"/></a>
-<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png"/></a>
-<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/></a>
 <a href="#"><img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"/></a>
-<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/plasticine/100/000000/adobe-illustrator.png"/></a>
-<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/></a>
-<a href="#"><img width="40px" height="40px" src="https://img.icons8.com/nolan/64/krita.png"/></a>
 </p>
 
