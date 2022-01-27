@@ -8,18 +8,13 @@
 
 
 ### About Me
-- 🥇 I code.
-- 📂 I am a frontend developer.
-- 😊 "The Earth is the cradle of humanity, but mankind cannot stay in the cradle forever." - Interested in space tech :D
+- I am a frontend developer. Learning backend tho. 
+- "Fly me to the moon, Let me play up there with those stars, Let me see what spring is like on Jupiter and Mars." - :')
 
 ### Stats
 <p float="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izma810&theme=radical&hide_border=true&layout=compact"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Izma810&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-</p>
-<p float="left">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Izma810&repo=Endangered-animals-website&theme=radical&hide_border=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=Izma810&repo=Quonto-Quiz-Website&theme=radical&hide_border=true"/>
 </p>
 
 
